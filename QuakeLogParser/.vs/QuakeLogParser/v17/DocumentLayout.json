@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\models\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\models\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\controllers\\dadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\controllers\\dadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\wwwroot\\files\\games.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\wwwroot\\files\\games.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\views\\ranking\\ranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\views\\ranking\\ranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\controllers\\estatisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\controllers\\estatisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\views\\estatisticas\\estatisticas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\views\\estatisticas\\estatisticas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +67,162 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DadosController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\DadosController.cs",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\DadosController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\DadosController.cs",
+              "RelativeToolTip": "QuakeLogParser\\Controllers\\DadosController.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAqwB4BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:49:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "QuakeLogParser\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "QuakeLogParser\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAEQAAAAAAAAAAAA9wF0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-21T15:28:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ranking.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Ranking\\Ranking.cshtml",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Ranking\\Ranking.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Ranking\\Ranking.cshtml",
+              "RelativeToolTip": "QuakeLogParser\\Views\\Ranking\\Ranking.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:39:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstatisticasController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Source\\Repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\EstatisticasController.cs",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\EstatisticasController.cs",
+              "ToolTip": "C:\\Users\\andre\\Source\\Repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\EstatisticasController.cs",
+              "RelativeToolTip": "QuakeLogParser\\Controllers\\EstatisticasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:14:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estatisticas.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Source\\Repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Estatisticas\\Estatisticas.cshtml",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Estatisticas\\Estatisticas.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Source\\Repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Estatisticas\\Estatisticas.cshtml",
+              "RelativeToolTip": "QuakeLogParser\\Views\\Estatisticas\\Estatisticas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:10:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "QuakeLogParser\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "QuakeLogParser\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvywAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T16:06:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuakeLogParser\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:31:25.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuakeLogParser\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:09:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuakeLogParser\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:13:44.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Models\\MetaData.cs",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Models\\MetaData.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Models\\MetaData.cs",
+              "RelativeToolTip": "QuakeLogParser\\Models\\MetaData.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAzwHAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:00:53.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "games.log",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\files\\games.log",
+              "RelativeDocumentMoniker": "QuakeLogParser\\wwwroot\\files\\games.log",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\files\\games.log",
+              "RelativeToolTip": "QuakeLogParser\\wwwroot\\files\\games.log",
+              "ViewState": "AQIAAOcJAAAAAAAAAADwv0IJAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-21T18:21:20.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RankingController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\RankingController.cs",
+              "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\RankingController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\RankingController.cs",
+              "RelativeToolTip": "QuakeLogParser\\Controllers\\RankingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:43:42.82Z",
+              "EditorCaption": ""
             }
           ]
         }

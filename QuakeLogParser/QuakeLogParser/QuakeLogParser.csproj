@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="JsonConverter.Newtonsoft.Json" Version="0.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Estatisticas\Estatisticas.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
     <Content Update="wwwroot\files\games.log">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

@@ -2,7 +2,11 @@
     ViewData["Title"] = "Quake Log Parser";
 }
 
-<div class="text-center">
+<div id="text-center" class="text-center">
     <h1 class="display-4">Bem-vindo(a) ao painel Quake Log Parser</h1>
-    <span>Clique para visualizar as estátisticas por jogo <button onclick="showData()">Estatisticas por Jogo</button>.</span>
+    <div class="espacamento"></div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Estatisticas" asp-action="Estatisticas">EstatisticasXJogo</a>
+    <div class="espacamento"></div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Ranking" asp-action="Ranking">Ranking</a>
+    <div id="body"></div>
 </div>

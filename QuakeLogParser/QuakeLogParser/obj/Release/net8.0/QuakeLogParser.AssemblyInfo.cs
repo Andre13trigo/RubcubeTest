@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuakeLogParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9724ea1abea6e362f796c4c1cd452c80c7fbc82b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3dbb49a2fea8f4650e0bf5de29e55984cfbfd15")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuakeLogParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuakeLogParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

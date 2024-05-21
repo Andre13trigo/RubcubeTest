@@ -20,3 +20,32 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#body .estilo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.quad {
+    border: solid 1px black;
+}
+
+.inp {
+    width: 20%;
+}
+
+.espacamento{
+    margin-top: 3%
+}
+
+.inp1 {
+    width: 70%;
+}

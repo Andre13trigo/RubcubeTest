@@ -18,8 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\andre\Source\Repos\Andre13trigo\RubcubeTest\QuakeLogParser\QuakeLogParser
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/andre/Source/Repos/Andre13trigo/RubcubeTest/QuakeLogParser/QuakeLogParser/Views/Estatisticas/Estatisticas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXRpc3RpY2FzXEVzdGF0aXN0aWNhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/andre/Source/Repos/Andre13trigo/RubcubeTest/QuakeLogParser/QuakeLogParser/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Source/Repos/Andre13trigo/RubcubeTest/QuakeLogParser/QuakeLogParser/Views/Ranking/Ranking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua2luZ1xSYW5raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andre/Source/Repos/Andre13trigo/RubcubeTest/QuakeLogParser/QuakeLogParser/Views/Shared/Error.cshtml]
