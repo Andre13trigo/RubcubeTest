@@ -1,4 +1,6 @@
-﻿namespace QuakeLogParser.Models
+﻿using static QuakeLogParser.Models.MetaData;
+
+namespace QuakeLogParser.Models
 {
     public class MetaData
     {
@@ -69,6 +71,8 @@
             {
                 NumeroDoJogo = numeroDoJogo;
             }
+
+            public List<Partida> Ret { get; set; }
         }
 
         public static void ParseMeansOfDeath(string modo, out meansOfDeath_t valorEnum)
@@ -116,6 +120,32 @@
             {
                 NumeroDoJogo = numeroDoJogo;
             }
+        }
+
+        public class DadosRequest
+        {
+            public int Jogo { get; set; }
+        }
+
+        public class Resultado
+        {
+            public bool success { get; set; }
+            public string mensagem { get; set; }
+            public Jogos jogos { get; set; }
+        }
+
+        public class Players
+        {
+            public bool success { get; set; }
+            public string mensagem { get; set; }
+            public List<Jogadores> jogos { get; set; }
+        }
+
+        public class RetornoAPI
+        {
+            public int NumeroDoJogo { get; set; }
+            public Partida partida { get; set; }
+            public List<Jogadores> Jogadores { get; set; }
         }
     }
 }

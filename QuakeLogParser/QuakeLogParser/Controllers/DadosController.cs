@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Linq;
+using System.Runtime.Intrinsics.X86;
 using static QuakeLogParser.Models.MetaData;
 
 namespace QuakeLogParser.Controllers
@@ -313,6 +314,74 @@ namespace QuakeLogParser.Controllers
             catch (Exception ex)
             {
                 return StatusCode(500, $"Ocorreu um erro ao ler o arquivo: {ex.Message}");
+            }
+        }
+
+        [HttpGet]
+        [HttpPost]
+        [Route("getinfoapi")]
+        public IActionResult GetInfoAPI([FromBody] DadosRequest request)
+        {
+            try
+            {
+                Resultado dados = null;
+                Players ranking = null;
+                List<RetornoAPI> retorno_backend = new List<RetornoAPI>();
+                RefatoraDadosAPI(out dados, out ranking, retorno_backend);
+                if (request.Jogo > 0)
+                {
+                    //informado numero jogo no body da request
+                    RetornoAPI elementoDesejado = retorno_backend.Find(x => x.NumeroDoJogo == request.Jogo);
+                    return Ok(new { success = true, mensagem = "Dados lidos com sucesso!", dados = elementoDesejado });
+                }
+                else
+                {
+                    return Ok(new { success = true, mensagem = "Dados lidos com sucesso!", dados = retorno_backend });
+                }
+                
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Ocorreu um erro ao ler o arquivo: {ex.Message}");
+            }
+        }
+
+        private void RefatoraDadosAPI(out Resultado dados, out Players ranking, List<RetornoAPI> retorno_backend)
+        {
+            //Devolve todos os dados de todos os jogos
+            dados = JsonConvert.DeserializeObject<Resultado>(JsonConvert.SerializeObject(((ObjectResult)GetDados()).Value));
+            foreach (var item in dados.jogos.Ret)
+            {
+                RetornoAPI retorno = new RetornoAPI()
+                {
+                    NumeroDoJogo = item.numero_jogo,
+                    partida = new Partida()
+                    {
+                        numero_jogo = item.numero_jogo,
+                        lst_causa = item.lst_causa,
+                        total_mortes_por_causa = item.total_mortes_por_causa,
+                        total_mortes_por_jogo = item.total_mortes_por_jogo,
+                        total_mortes_por_world = item.total_mortes_por_world
+                    }
+                };
+                retorno_backend.Add(retorno);
+            }
+            ranking = JsonConvert.DeserializeObject<Players>(JsonConvert.SerializeObject(((ObjectResult)GetRanking()).Value));
+            foreach (var item in ranking.jogos)
+            {
+                RetornoAPI rtn = retorno_backend.FirstOrDefault(c => c.NumeroDoJogo == item.NumeroDoJogo);
+                if (rtn.Jogadores == null)
+                {
+                    rtn.Jogadores = new List<Jogadores>();
+                }
+                Jogadores jAux = new Jogadores(item.NumeroDoJogo)
+                {
+                    Id = item.Id,
+                    NomeJogador = item.NomeJogador,
+                    NumeroDoJogo = item.NumeroDoJogo,
+                    Pontuacao = item.Pontuacao
+                };
+                rtn.Jogadores.Add(jAux);
             }
         }
     }
