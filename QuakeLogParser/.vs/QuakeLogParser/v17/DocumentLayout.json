@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|c:\\users\\andre\\source\\repos\\andre13trigo\\rubcubetest\\quakelogparser\\quakelogparser\\controllers\\dadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F85ACBEA-87C3-4512-A2C7-184CE36935F0}|QuakeLogParser\\QuakeLogParser.csproj|solutionrelative:quakelogparser\\controllers\\dadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +61,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-22T03:01:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DadosController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\DadosController.cs",
               "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\DadosController.cs",
@@ -75,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "QuakeLogParser\\wwwroot\\js\\site.js",
@@ -88,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Ranking.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Ranking\\Ranking.cshtml",
               "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Ranking\\Ranking.cshtml",
@@ -101,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EstatisticasController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Source\\Repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\EstatisticasController.cs",
               "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\EstatisticasController.cs",
@@ -114,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Estatisticas.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Source\\Repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Estatisticas\\Estatisticas.cshtml",
               "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Estatisticas\\Estatisticas.cshtml",
@@ -127,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "QuakeLogParser\\wwwroot\\css\\site.css",
@@ -140,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Home\\Index.cshtml",
@@ -153,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "QuakeLogParser\\Views\\Shared\\_Layout.cshtml",
@@ -166,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\HomeController.cs",
@@ -179,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MetaData.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Models\\MetaData.cs",
               "RelativeDocumentMoniker": "QuakeLogParser\\Models\\MetaData.cs",
@@ -192,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "games.log",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\wwwroot\\files\\games.log",
               "RelativeDocumentMoniker": "QuakeLogParser\\wwwroot\\files\\games.log",
@@ -205,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RankingController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Andre13trigo\\RubcubeTest\\QuakeLogParser\\QuakeLogParser\\Controllers\\RankingController.cs",
               "RelativeDocumentMoniker": "QuakeLogParser\\Controllers\\RankingController.cs",
