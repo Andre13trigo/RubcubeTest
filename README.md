@@ -1,12 +1,14 @@
 # RubcubeTest
 Teste Dev .Net Rubcube
 
-o exercÌcio escolhido foi o backend, como instruido no envio do teste
+![image](https://github.com/Andre13trigo/RubcubeTest/assets/102056079/16ea146d-5508-4d6f-a2e2-8cbe59d6615c)
 
-para testar e rodar, basta executar o cÛgido, que abrir· uma pagina, como se fosse um "portal", que trar· as opcÁıes conforme as histÛrias solicitadas
+o exerc√≠cio escolhido foi o backend, como instruido no envio do teste
 
-a histÛria 3 como È uma API, precisa ser testada pelo postman, ou qualquer outra ferramenta que faÁa chamadas de API
+para testar e rodar, basta executar o c√≥gido, que abrir√° uma pagina, como se fosse um "portal", que trar√° as opc√ß√µes conforme as hist√≥rias solicitadas
 
-foi bem tranquilo, sei que tem alguns erros e muita coisa pra melhorar, mas devido ao prazo, È melhor entregar algo funcionando do que algo bonito que n„o funcione
+a hist√≥ria 3 como √© uma API, precisa ser testada pelo postman, ou qualquer outra ferramenta que fa√ßa chamadas de API
 
-achei uma prova muito interessante e me fez rever bastante conceitos que j· estavam enferrujados.
+foi bem tranquilo, sei que tem alguns erros e muita coisa pra melhorar, mas devido ao prazo, √© melhor entregar algo funcionando do que algo bonito que n√£o funcione
+
+achei uma prova muito interessante e me fez rever bastante conceitos que j√° estavam enferrujados.
